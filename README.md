@@ -4,6 +4,8 @@ Vamos criar um **e-commerce**,para a *empresa x*
 
 ## Funcionalidades :
 
+_Chekout, **Tela de produto**, Catálogo, Home com banner_
+
 **Checkout, _Tela de produto_, Catálogo, Home com Banner**
 
 ###### Melhorias do projeto
