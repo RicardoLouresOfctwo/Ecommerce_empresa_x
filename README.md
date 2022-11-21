@@ -11,3 +11,11 @@ _Chekout, **Tela de produto**, Catálogo, Home com banner_
 ###### Melhorias do projeto
 
 __Melhoria 1__, _Melhoria 2_
+
+### Linguagem do Projeto:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
