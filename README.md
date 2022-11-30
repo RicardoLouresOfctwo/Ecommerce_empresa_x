@@ -24,17 +24,13 @@ __Melhoria 1__, _Melhoria 2_
 ### Funcionalidades a desenvolver
 
 1. Área de membros
-  1. login diferente para grupos de cliente
-  2. Desconto especial para grupos de clientes
-  3. CSS diferente para grupos de clientes
+    1. login diferente para grupos de cliente
+    2. Desconto especial para grupos de clientes
+    3. CSS diferente para grupos de clientes
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
+#### Imagem local
 
-=======
-## Funcionalidades a desenvolver
+![Logo do Python](img/python.png)
 
-1. Área de membros
-2. Integração com outros pagamentos
-3. Sistema de bônus primeira compra
->>>>>>> 5ca9b04617fadf7a222e1fbacce72cb1e6c7187e
