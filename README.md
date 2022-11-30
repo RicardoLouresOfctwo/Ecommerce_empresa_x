@@ -20,6 +20,7 @@ __Melhoria 1__, _Melhoria 2_
 * PHP
 * MySQL
 
+<<<<<<< HEAD
 ### Funcionalidades a desenvolver
 
 1. Área de membros
@@ -30,3 +31,10 @@ __Melhoria 1__, _Melhoria 2_
 3. Sistema de bônus primeira compra
 
 
+=======
+## Funcionalidades a desenvolver
+
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
+>>>>>>> 5ca9b04617fadf7a222e1fbacce72cb1e6c7187e
