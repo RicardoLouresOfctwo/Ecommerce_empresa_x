@@ -21,6 +21,9 @@ __Melhoria 1__, _Melhoria 2_
 * MySQL
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> d58f64648722651c44d3002f8cf3c1a8bc474da8
 ### Funcionalidades a desenvolver
 
 1. Área de membros
@@ -30,7 +33,11 @@ __Melhoria 1__, _Melhoria 2_
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
+<<<<<<< HEAD
 #### Imagem local
+=======
+### Imagem Local
+>>>>>>> d58f64648722651c44d3002f8cf3c1a8bc474da8
 
 ![Logo do Python](img/python.png)
 
